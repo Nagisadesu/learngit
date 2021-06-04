@@ -36,10 +36,10 @@
 >
 > > - *行内式*
 > >
-> > - 【百度】（www.baidu.com “百度”）
+> > - [百度]（www.baidu.com “百度”）
 > >
 > > - *参考式*
-> > - 【Github】（www.github.com “Github”）
+> > - [Github]（www.github.com “Github”）
 > >
 > > > 图片的连接在名字前面加上一个*！*
 
